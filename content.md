@@ -35,7 +35,7 @@
 
 ## How to annotate GO terms
 
-* I studied the localization of a protein (GO - Cellular component)
+* I studied the localization of a protein / a protein that is part of a protein complex (GO - Cellular component)
   * Some examples
 * I studied the molecular function of a protein (GO - Molecular Function)
   * Some examples
