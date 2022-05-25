@@ -45,3 +45,8 @@
 ## Protein features
 
 NLS etc
+
+## Other todo
+
+* complementation
+* 
