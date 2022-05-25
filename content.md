@@ -4,6 +4,8 @@
 
 * I used alleles that have sequence modifications with respect to the wild type gene
 
+    <iframe width="30%" src="https://www.youtube.com/embed/QGTwG4EqEjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
   * The allele has been used before:
 
     Check whether the allele is annotated in Pombase already by visiting the allele section of the gene page.
@@ -49,4 +51,3 @@ NLS etc
 ## Other todo
 
 * complementation
-* 
